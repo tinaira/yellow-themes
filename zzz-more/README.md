@@ -1,6 +1,6 @@
 More themes
 ===========
-Themes made by the [Yellow community](https://github.com/datenstrom/yellow/wiki/Yellow-community):
+Themes made by the [Yellow community](http://developers.datenstrom.se/help/):
 
 * [Envisioned](https://github.com/nogginfuel/yellow-theme-envisioned):
   Envisioned is a minimalistic theme inspired by Edward Tufte
