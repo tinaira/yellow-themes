@@ -22,4 +22,4 @@ More themes by Yellow developers:
 * [Envisioned](https://github.com/nogginfuel/yellow-theme-envisioned):
   Envisioned is a minimalistic theme inspired by Edward Tufte.
 
-Created a new plugin? Awesome, add it to the list.
+Created a new theme? Awesome, add it to the list.
