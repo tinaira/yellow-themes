@@ -6,7 +6,7 @@ Yellow is for people who make websites. [Get support](http://developers.datenstr
 
 1. [Download all themes and unzip them](https://github.com/datenstrom/yellow-themes/archive/master.zip).  
 2. Copy relevant files to your web hosting, see individual theme.  
-3. Open your website in a web browser. [Learn more](http://developers.datenstrom.se/help/).
+3. Open your website in a web browser.
 
 The following themes are available:
 
