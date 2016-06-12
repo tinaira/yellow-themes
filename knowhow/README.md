@@ -6,9 +6,10 @@ Knowhow is a theme for a GitHub-like knowledge base. [See demo](http://developer
 
 How do I install this?
 ----------------------
-1. Download and install [Yellow](https://github.com/datenstrom/yellow/).  
-2. Download [knowhow.css](knowhow.css?raw=true) and [knowhow-logo.png](knowhow-logo.png?raw=true), copy them into your `system/themes` folder.  
-3. To enable the theme open file `system/config/config.ini` and change `Theme: knowhow`
+1. Download and install [Yellow](https://github.com/datenstrom/yellow/).
+2. Download and unzip [Knowhow theme](https://github.com/datenstrom/yellow-themes/raw/master/zip/knowhow.zip).
+3. Copy `knowhow.css` and `knowhow-logo.png` into your `system/themes` folder.
+4. To enable the theme open file `system/config/config.ini` and change `Theme: knowhow`.
 
 To uninstall delete the theme files and set default settings.
 
