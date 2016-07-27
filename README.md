@@ -1,8 +1,8 @@
 Yellow themes
 =============
-[![Yellow](https://raw.githubusercontent.com/datenstrom/yellow-developers/master/media/images/yellow-photo.jpg)](http://datenstrom.se/yellow)
+[![Yellow](https://raw.githubusercontent.com/datenstrom/yellow-developers/master/media/images/yellow-photo.jpg)](https://datenstrom.se/yellow)
 
-Yellow is for people who make websites. [Get support](http://developers.datenstrom.se/help/support).
+Yellow is for people who make websites. [Get support](https://developers.datenstrom.se/help/support).
 
 1. [Download all themes and unzip them](https://github.com/datenstrom/yellow-themes/archive/master.zip).  
 2. Copy relevant files to your web hosting.  
@@ -24,4 +24,4 @@ More themes by developers:
 * [Lateral](https://github.com/nibreh/yellow-theme-lateral):
   Lateral is a clean theme with fixed sidebar, inspired by Indexhibit.
 
-All files are licensed under [GPLv2](http://opensource.org/licenses/GPL-2.0) unless stated otherwise.
+All files are licensed under [GPLv2](https://opensource.org/licenses/GPL-2.0) unless stated otherwise.
