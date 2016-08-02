@@ -9,7 +9,7 @@ How do I install this?
 1. [Download and install Yellow](https://github.com/datenstrom/yellow/).
 2. [Download theme](https://github.com/datenstrom/yellow-themes/raw/master/zip/blogsite.zip). If you are using Safari, right click and select 'Download file as'.
 3. Copy `blogsite.zip ` into your `system/themes` folder.
-4. To enable the theme open file `system/config/config.ini` and change `Theme: blogsite`.
+4. Open `system/config/config.ini` and change `Theme: blogsite`.
 
 To uninstall delete the theme files.
 
