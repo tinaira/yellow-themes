@@ -17,7 +17,7 @@ Available themes:
 * [Knowhow](https://github.com/datenstrom/yellow-themes/tree/master/knowhow): 
   Knowhow is a theme for a GitHub-like knowledge base.
 
-More themes by developers:
+Experimental themes:
 
 * [Envisioned](https://github.com/nogginfuel/yellow-theme-envisioned):
   Envisioned is a minimalistic theme inspired by Edward Tufte.
