@@ -1,8 +1,8 @@
-Blogsite theme 0.6.7
+Blogsite theme 0.6.8
 ====================
 Blogsite is a basic blogger theme. [See demo](https://developers.datenstrom.se/themes/blogsite-theme).
 
-[![Screenshot](blogsite-theme.jpg?raw=true)](https://developers.datenstrom.se/themes/blogsite-theme)
+[![Screenshot](blogsite-screenshot.png?raw=true)](https://developers.datenstrom.se/themes/blogsite-theme)
 
 How do I install this?
 ----------------------
