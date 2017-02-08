@@ -31,4 +31,3 @@ Experimental themes:
   Lateral is a clean theme with fixed sidebar, inspired by Indexhibit.
 
 Licensed under [GPLv2](https://github.com/datenstrom/yellow-themes/blob/master/LICENSE.md) unless stated otherwise. [Learn more](https://developers.datenstrom.se/help/).
-
