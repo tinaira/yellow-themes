@@ -1,4 +1,4 @@
-Stockholm theme 0.6.2
+Stockholm theme 0.6.12
 =====================
 Stockholm is a modern business theme. [See demo](https://developers.datenstrom.se/themes/stockholm-theme).
 
@@ -12,6 +12,10 @@ Stockholm is a modern business theme. [See demo](https://developers.datenstrom.s
 4. Open `system/config/config.ini` and change `Theme: stockholm`.
 
 To uninstall delete the theme files.
+
+## Information
+
+The theme uses [Open Sans](http://www.opensans.com) by Steve Matteson. It's licensed under [Apache license](https://opensource.org/licenses/Apache-2.0).
 
 ## Designer
 

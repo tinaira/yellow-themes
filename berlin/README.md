@@ -1,4 +1,4 @@
-Berlin theme 0.6.2
+Berlin theme 0.6.12
 ==================
 Berlin is a simple and beautiful theme inspired by Dieter Rams. [See demo](https://developers.datenstrom.se/themes/berlin-theme).
 
@@ -12,6 +12,10 @@ Berlin is a simple and beautiful theme inspired by Dieter Rams. [See demo](https
 4. Open `system/config/config.ini` and change `Theme: berlin`.
 
 To uninstall delete the theme files.
+
+## Information
+
+The theme uses [Open Sans](http://www.opensans.com) by Steve Matteson. It's licensed under [Apache license](https://opensource.org/licenses/Apache-2.0).
 
 ## Designer
 

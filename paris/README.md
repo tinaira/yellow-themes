@@ -1,4 +1,4 @@
-Paris theme 0.6.2
+Paris theme 0.6.12
 =================
 Paris is an elegant theme for writers. [See demo](https://developers.datenstrom.se/themes/paris-theme).
 
@@ -12,6 +12,10 @@ Paris is an elegant theme for writers. [See demo](https://developers.datenstrom.
 4. Open `system/config/config.ini` and change `Theme: paris`.
 
 To uninstall delete the theme files.
+
+## Information
+
+The theme uses [Open Sans](http://www.opensans.com) by Steve Matteson. It's licensed under [Apache license](https://opensource.org/licenses/Apache-2.0).
 
 ## Designer
 
