@@ -1,4 +1,4 @@
-Berlin theme 0.6.12
+Berlin theme 0.6.13
 ==================
 Berlin is a simple and beautiful theme inspired by Dieter Rams. [See demo](https://developers.datenstrom.se/themes/berlin-theme).
 
