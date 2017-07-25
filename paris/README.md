@@ -1,6 +1,6 @@
-Paris theme 0.6.13
+Paris theme 0.7.1
 =================
-Paris is an elegant theme for writers. [See demo](https://developers.datenstrom.se/themes/paris-theme).
+Paris is an elegant theme for writers. [See demo](https://developers.datenstrom.se/themes/paris).
 
 <p align="center"><img src="paris-screenshot.png?raw=true" alt="Screenshot"></p>
 

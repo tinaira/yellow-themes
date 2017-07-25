@@ -1,6 +1,6 @@
-Stockholm theme 0.6.13
+Stockholm theme 0.7.1
 =====================
-Stockholm is a modern business theme. [See demo](https://developers.datenstrom.se/themes/stockholm-theme).
+Stockholm is a modern business theme. [See demo](https://developers.datenstrom.se/themes/stockholm).
 
 <p align="center"><img src="stockholm-screenshot.png?raw=true" alt="Screenshot"></p>
 
