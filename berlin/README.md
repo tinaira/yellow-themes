@@ -11,7 +11,7 @@ Berlin is a simple and beautiful theme inspired by Dieter Rams. [See demo](https
 3. Copy `berlin.zip ` into your `system/themes` folder.
 4. Open `system/config/config.ini` and change `Theme: berlin`.
 
-To uninstall delete the theme files.
+To uninstall delete the [theme files](update.ini).
 
 ## Information
 

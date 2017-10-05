@@ -11,7 +11,7 @@ Blogsite is a basic blogger theme. [See demo](https://developers.datenstrom.se/t
 3. Copy `blogsite.zip ` into your `system/themes` folder.
 4. Open `system/config/config.ini` and change `Theme: blogsite`.
 
-To uninstall delete the theme files.
+To uninstall delete the [theme files](update.ini).
 
 ## Designer
 

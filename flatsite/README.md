@@ -11,7 +11,7 @@ Flatsite is a clean business theme. [See demo](https://developers.datenstrom.se/
 3. Copy `flatsite.zip ` into your `system/themes` folder.
 4. Open `system/config/config.ini` and change `Theme: flatsite`.
 
-To uninstall delete the theme files.
+To uninstall delete the [theme files](update.ini).
 
 ## Information
 

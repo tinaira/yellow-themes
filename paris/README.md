@@ -11,7 +11,7 @@ Paris is an elegant theme for writers. [See demo](https://developers.datenstrom.
 3. Copy `paris.zip ` into your `system/themes` folder.
 4. Open `system/config/config.ini` and change `Theme: paris`.
 
-To uninstall delete the theme files.
+To uninstall delete the [theme files](update.ini).
 
 ## Information
 

@@ -11,7 +11,7 @@ Stockholm is a modern business theme. [See demo](https://developers.datenstrom.s
 3. Copy `stockholm.zip ` into your `system/themes` folder.
 4. Open `system/config/config.ini` and change `Theme: stockholm`.
 
-To uninstall delete the theme files.
+To uninstall delete the [theme files](update.ini).
 
 ## Information
 

@@ -11,7 +11,7 @@ Knowhow is a theme for a GitHub-like knowledge base. [See demo](https://develope
 3. Copy `knowhow.zip ` into your `system/themes` folder.
 4. Open `system/config/config.ini` and change `Theme: knowhow`.
 
-To uninstall delete the theme files.
+To uninstall delete the [theme files](update.ini).
 
 ## Designer
 
