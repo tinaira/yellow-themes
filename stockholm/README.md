@@ -1,4 +1,4 @@
-Stockholm theme 0.7.1
+Stockholm theme 0.7.2
 =====================
 Stockholm is a modern business theme. [See demo](https://developers.datenstrom.se/themes/stockholm).
 

@@ -1,4 +1,4 @@
-Flatsite theme 0.7.1
+Flatsite theme 0.7.2
 ====================
 Flatsite is a clean business theme. [See demo](https://developers.datenstrom.se/themes/flatsite).
 
