@@ -2,7 +2,7 @@ Datenstrom Yellow themes
 ========================
 [![Datenstrom Yellow](https://raw.githubusercontent.com/datenstrom/yellow-developers/master/media/images/datenstrom-yellow-en.jpg)](https://datenstrom.se/yellow/)
 
-Yellow is for people who make websites. [See demo](https://developers.datenstrom.se/themes/).
+Datenstrom Yellow is for people who make websites. [See demo](https://developers.datenstrom.se/themes/).
 
 1. [Download all themes and unzip them](https://github.com/datenstrom/yellow-themes/archive/master.zip).  
 2. Copy relevant files to your web hosting.  
