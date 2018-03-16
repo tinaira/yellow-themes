@@ -32,4 +32,4 @@ Experimental themes:
 * [Lateral](https://github.com/nibreh/yellow-theme-lateral):
   Lateral is a clean theme with fixed sidebar, inspired by Indexhibit.
 
-We have a developer kit and an API for developers. [Read more](https://developers.datenstrom.se/help/).
+We have a developer kit and an API for developers. [Learn more](https://developers.datenstrom.se/help/).
