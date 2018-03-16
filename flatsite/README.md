@@ -19,4 +19,4 @@ The theme uses [Open Sans](http://www.opensans.com) by Steve Matteson. It's lice
 
 ## Designer
 
-Mark Mayberg
+Datenstrom and Mark Mayberg. [Ask questions and discuss problems](https://github.com/datenstrom/yellow/issues).
