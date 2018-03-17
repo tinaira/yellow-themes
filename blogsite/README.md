@@ -15,4 +15,4 @@ To uninstall delete the [theme files](update.ini).
 
 ## Designer
 
-Datenstrom and Mark Mayberg. [Ask questions and discuss problems](https://github.com/datenstrom/yellow/issues).
+Datenstrom and Mark Mayberg. [Get support](https://developers.datenstrom.se/help/support).
